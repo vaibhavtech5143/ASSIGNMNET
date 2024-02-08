@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cycjimmy/jsmpeg-player": "^6.0.5"
+  }
+}
